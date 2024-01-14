@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"compositepattern","l":"AbstractProduct"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"compositepattern","l":"CompositeMain"},{"p":"compositepattern","l":"CompositeProduct"},{"p":"compositepattern","l":"SaleOrder"},{"p":"compositepattern","l":"SimpleProduct"}];updateSearchResults();

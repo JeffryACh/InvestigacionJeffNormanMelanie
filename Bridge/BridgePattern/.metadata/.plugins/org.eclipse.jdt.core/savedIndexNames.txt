@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Melanie\OneDrive - Estudiantes ITCR\POO\BridgePattern\.metadata\.plugins\org.eclipse.jdt.core
+3446439631.index
+1865797976.index
+895854502.index
+4116520660.index
+1191527608.index
