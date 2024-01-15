@@ -61,6 +61,7 @@ public class CompositeProduct extends AbstractProduct {
     
     /**
      * Método que borra un producto de la lista de productos
+     * @param product - Producto a borrar
      * @return boolean - True si se ha borrado el producto, false en caso contrario
      */
     public boolean removeProduct(AbstractProduct product) {
