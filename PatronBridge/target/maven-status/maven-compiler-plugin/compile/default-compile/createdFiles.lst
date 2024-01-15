@@ -1,0 +1,7 @@
+dispositivos\Celular.class
+dispositivos\ControlRemoto.class
+dispositivos\Televisor.class
+interfaces\Control.class
+dispositivos\Proyector.class
+com\mycompany\patronbridge\PatronBridge.class
+interfaces\Dispositivo.class
